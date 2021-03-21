@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Communicate">
+            <menu>
+                <item
+                    android:id="@+id/rate_id"
+                    android:icon="@drawable/ic_star_black_24dp"
+                    android:title="Rate This App" />
+                <item
+                    android:id="@+id/share_id"
+                    android:icon="@drawable/ic_share_black_24dp"
+                    android:title="Share This App" />
+                <item
+                    android:id="@+id/feedback_id"
+                    android:icon="@drawable/ic_send_black_24dp"
+                    android:title="Send Feedback" />
+                <item
+                    android:id="@+id/support_id"
+                    android:icon="@drawable/ic_card_giftcard_black_24dp"
+                    android:title="Support Development" />
+
+                <item
+                    android:id="@+id/privacy_id"
+                    android:icon="@drawable/ic_lock_privacy"
+                    android:title="Privacy Policy" />
+                <item
+                    android:id="@+id/about_id"
+                    android:icon="@drawable/ic_error_black_24dp"
+                    android:title="About" />
+                <item
+                    android:id="@+id/more_app_id"
+                    android:icon="@drawable/ic_baseline_more_24"
+                    android:title="More App" />
+            </menu>
+        </item>
+    </group>
+
+</menu>

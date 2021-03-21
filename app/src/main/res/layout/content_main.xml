@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    >
+
+    <ImageView
+        android:id="@+id/imageLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/home_background">
+
+    </ImageView>
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/imageLayout"
+        android:id="@+id/layoutOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="3">
+
+        <Button
+            android:id="@+id/ramadanTimeid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:drawableTop="@drawable/time"
+            android:text="রোজার\nসময়"
+            android:background="@drawable/roundbutton"
+            android:layout_weight="1">
+
+        </Button>
+        <Button
+            android:id="@+id/kalimaId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:drawableTop="@drawable/kalima"
+            android:text="কালিমা\n"
+            android:background="@drawable/roundbutton"
+            android:layout_weight="1">
+
+        </Button>
+        <Button
+            android:id="@+id/alasmaId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:background="@drawable/roundbutton"
+            android:drawableTop="@drawable/names"
+            android:text="আল আসমা\nউল হুসনা "
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:layout_weight="1">
+
+        </Button>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/layoutOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="3">
+        <Button
+            android:id="@+id/toshbihBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:drawableTop="@drawable/tasbih"
+            android:text="তাসবিহ\n"
+            android:background="@drawable/roundbutton"
+            android:layout_weight="1">
+
+        </Button>
+        <Button
+            android:id="@+id/compassBtnId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:drawableTop="@drawable/compass"
+            android:text="কিবলা\nকম্পাস"
+            android:background="@drawable/roundbutton"
+            android:layout_weight="1">
+
+        </Button>
+        <Button
+            android:id="@+id/wallpaperBtnId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="20dp"
+            android:drawableTop="@drawable/wallpaper"
+            android:text="ওয়ালপেপার\n"
+            android:textSize="12sp"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:background="@drawable/roundbutton"
+            android:layout_weight="1">
+
+        </Button>
+
+    </LinearLayout>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        app:adUnitId="ca-app-pub-6736964088321278/8628747525"></com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

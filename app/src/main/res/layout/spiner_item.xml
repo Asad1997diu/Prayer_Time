@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="6dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="2dp"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="6dp">
+    <TextView
+        android:layout_margin="7dp"
+        android:id="@+id/spinerTxtId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bangladesh"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        />
+    </androidx.cardview.widget.CardView>
+</LinearLayout>

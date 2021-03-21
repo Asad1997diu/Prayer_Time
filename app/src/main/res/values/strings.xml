@@ -1,0 +1,992 @@
+<resources>
+    <string name="app_name">Namaj Sikkha</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="about">Romantic Wallpaper\nApp Version: 3.0.1\nDeveloper: Studio69 It Solution\n\nCredits: All credits goes to Internet.\n\nAbout ads: We need to store images which cost us some money.Please, do not get angry.</string>
+    <string name="support_developer">We are working on this part.</string>
+
+    <string-array name="names_meaning">
+        <item>পরম দয়ালু</item>
+        <item>অতিশয় মেহেরবান</item>
+        <item>সর্বকর্তৃত্বময়</item>
+        <item>অতি পবিত্র</item>
+        <item>শান্তি দানকারী</item>
+        <item>নিরাপত্তা ও ঈমান দানকারী</item>
+        <item>পরিপূর্ণ রক্ষণাবেক্ষণকারী</item>
+        <item>পরাক্রমশালী</item>
+        <item>দুর্নিবার</item>
+        <item>নিরঙ্কুশ শ্রেষ্ঠত্বের অধিকারী</item>
+        <item>সৃষ্টিকর্তা</item>
+        <item>সঠিকভাবে সৃষ্টিকারী</item>
+        <item>আকৃতি দানকারী</item>
+        <item>পরম ক্ষমাশীল</item>
+        <item>কঠোর</item>
+        <item>সবকিছু দানকারী</item>
+        <item>রিযিকদাতা</item>
+        <item>বিজয়দানকারী</item>
+        <item>সর্বজ্ঞ</item>
+        <item>সংকীর্ণকারী</item>
+        <item>প্রশস্তকারী</item>
+        <item>অবনতকারী</item>
+        <item>উন্নতকারী</item>
+        <item>সম্মান দানকারী</item>
+        <item>(অবিশ্বাসীদের) বেইজ্জতকারী</item>
+        <item>সর্বশ্রোতা</item>
+        <item>সর্ববিষয় দর্শনকারী</item>
+        <item>অতল বিচারক</item>
+        <item>পরিপূর্ণ ন্যায়বিচারক</item>
+        <item>সকল গোপন বিষয়ে অবগত</item>
+        <item>সকল বিষয়ে জ্ঞাত</item>
+        <item>অত্যন্ত ধর্য্যশীল</item>
+        <item>সর্বত্ত মর্যাদাশীল</item>
+        <item>পরম ক্ষমাশীল</item>
+        <item>গুন্গ্রাহী</item>
+        <item>উচ্চ মর্যাদাশীল</item>
+        <item>সুমহান</item>
+        <item>সংরক্ষণকারী</item>
+        <item>সকলের জীবনোপকরণ দানকারী</item>
+        <item>হিসাব গ্রহণকারী</item>
+        <item>পরম মর্যাদার অধিকারী</item>
+        <item>সুমহান দাতা</item>
+        <item>তত্ত্বাবধায়ক</item>
+        <item>কবুলকারী</item>
+        <item>সর্বত্ত বিরাজমান</item>
+        <item>পরম প্রজ্ঞাময়</item>
+        <item>(বান্দাদের প্রতি) সদয়</item>
+        <item>সকল মর্যাদার অধিকারী</item>
+        <item>পুনরুজ্জীবিতকারী</item>
+        <item>সর্বজ্ঞ স্বাক্ষী</item>
+        <item>পরম সত্য</item>
+        <item>পরম নির্ভরযোগ্য কর্ম-সম্পাদনকারী</item>
+        <item>পরম শক্তির অধিকারী</item>
+        <item>সুদৃঢ়</item>
+        <item>অভিভাবক ও সাহায্যকারী</item>
+        <item>সকল প্রশংসার অধিকারী</item>
+        <item>সকল সৃষ্টির ব্যাপারে অবগত</item>
+        <item>প্রথমবার সৃষ্টিকর্তা</item>
+        <item>পুনরায় সৃষ্টিকর্তা</item>
+        <item>জীবন দানকারী</item>
+        <item>মৃত্যু দানকারী</item>
+        <item>চিরঞ্জীব</item>
+        <item>সমস্ত কিছুর ধারক ও সংরক্ষণকারী</item>
+        <item>অফুরন্ত ভান্ডারের অধিকারী</item>
+        <item>শ্রেষ্ঠত্বের অধিকারী</item>
+        <item>এক ও অদ্বিতীয়</item>
+        <item>এক</item>
+        <item>অমুখাপেক্ষি</item>
+        <item>সর্বশক্তিমান</item>
+        <item>নিরঙ্কুশ সিদ্ধান্তের অধিকারী</item>
+        <item>অগ্রসারক</item>
+        <item>অবকাশ দানকারী</item>
+        <item>অনাদি</item>
+        <item>অনন্ত, সর্বশেষ</item>
+        <item>সম্পূর্ণরূপে প্রকাশিত</item>
+        <item>দৃষ্টি হতে অদৃশ্য</item>
+        <item>সমস্ত কিছুর অভিভাবক</item>
+        <item>সৃষ্টির গুণাবলীর উর্দ্ধে</item>
+        <item>পরম উপকারী</item>
+        <item>তাওবার তৌফিক দানকারী ও কবুলকারী</item>
+        <item>প্রতিশোধ গ্রহণকারী</item>
+        <item>পরম উদার</item>
+        <item>পরম স্নেহশীল</item>
+        <item>সমগ্র জগতের বাদশাহ</item>
+        <item>মহিমান্বিত ও দয়াবান সত্তা</item>
+        <item>হকদারের হোক আদায়কারী</item>
+        <item>একত্রকারী, সমবেতকারী</item>
+        <item>অমুখাপেক্ষি ধনী</item>
+        <item>পরম অভাবমোচনকারী</item>
+        <item>অকল্যাণরোধক</item>
+        <item>ক্ষতিসাধনকারী</item>
+        <item>কল্যাণকারী</item>
+        <item>পরম আলো</item>
+        <item>পথ প্রদর্শক</item>
+        <item>অতুলনীয়</item>
+        <item>চিরস্থায়ী, অবিনশ্বর</item>
+        <item>উত্তরাধিকারী</item>
+        <item>সঠিক পথ প্রদর্শক</item>
+        <item>অত্যাধিক ধর্য্য ধারণকারী</item>
+    </string-array>
+    <string-array name="names_spelling">
+        <item>আর রাহমান</item>
+        <item>আর রহিম</item>
+        <item>আল মালিক</item>
+        <item> আল কুদ্দুস</item>
+        <item>আস সালাম</item>
+        <item> আল মুমিন </item>
+        <item>আল মুহাইমিন</item>
+        <item>আল আজিজ </item>
+        <item>আল জাব্বার</item>
+        <item>আল মুতাকাব্বির</item>
+        <item>আল খালিক</item>
+        <item>আল বারী </item>
+        <item>আল মুসাউইর</item>
+        <item>আল গাফ্ফার</item>
+        <item>আল ক্বাহার </item>
+        <item>আল ওয়াহ্হাব </item>
+        <item>আর রাজ্জাক</item>
+        <item>আল ফাত্তাহ</item>
+        <item>আল আলীম </item>
+        <item>আল কাবিদ্ব</item>
+        <item>আল বাসিত </item>
+        <item>আল খাফিদ </item>
+        <item>আর রাফী</item>
+        <item>আল মুজিব </item>
+        <item>আল মুদ্বিল্ল</item>
+        <item>আস সামি</item>
+        <item>আল বাসীর</item>
+        <item>আল হাকাম</item>
+        <item>আল আদল </item>
+        <item>আল লতিফ</item>
+        <item>আল খাবির</item>
+        <item>আল হালিম</item>
+        <item>আল আজিম</item>
+        <item>আল গফুর</item>
+        <item>আস শাকুর</item>
+        <item>আল আলী</item>
+        <item>আল কাবিইর</item>
+        <item>আল হাফীজ </item>
+        <item>আল মুক্বিত</item>
+        <item>আল হাসিব </item>
+        <item>আল জলীল</item>
+        <item>আল কারীম</item>
+        <item>আল রাক্বীব </item>
+        <item>আল মুজীব</item>
+        <item>আল ওয়াসি</item>
+        <item>আল হাকীম </item>
+        <item>আল ওয়াদুদ </item>
+        <item>আল মাজীদ</item>
+        <item>আল বাইস</item>
+        <item>আশ শাহীদ</item>
+        <item>আল হাক্ব</item>
+        <item>আল ওয়াকিল</item>
+        <item>আল ক্বাউইউ </item>
+        <item>আল মাতীন</item>
+        <item>আল ওয়ালীইউ</item>
+        <item>আল হামীদ</item>
+        <item>আল মুহসি</item>
+        <item>আল মুব্দি</item>
+        <item>আল মুঈদ </item>
+        <item>আল মুহয়ি</item>
+        <item>আল মুমীত</item>
+        <item>আল হাইয়্যু</item>
+        <item>আল ক্বাইয়ূম</item>
+        <item>আল ওয়াজীদ</item>
+        <item>আল মাজীদ</item>
+        <item>আল ওয়া’হিদ</item>
+        <item>আল আহাদ</item>
+        <item>আস সামাদ</item>
+        <item>আল ক্বাদীর </item>
+        <item>আল মুক্তাদির</item>
+        <item>আল মুক্বদ্দিম</item>
+        <item>আল মুয়াক্ষীর</item>
+        <item>আল আউয়াল</item>
+        <item>আল আখির</item>
+        <item>আল জাহির</item>
+        <item>আল বাত্বিন</item>
+        <item>আল ওয়ালী</item>
+        <item>আল মুতা’আলী</item>
+        <item>আল বার্</item>
+        <item>আত তাওয়াব</item>
+        <item>আল মুনতাক্বীম</item>
+        <item>আল আফঊ</item>
+        <item>আর রউফ </item>
+        <item>মালিকুল মূলক</item>
+        <item>যুল জালালী ওয়াল ইকরাম</item>
+        <item>আল মুক্বসিত</item>
+        <item>আল জামিই</item>
+        <item>আল গানি </item>
+        <item> আল মুগনিই</item>
+        <item>আল মানিই</item>
+        <item>আয্ যর</item>
+        <item>আন নাফিই</item>
+        <item> আন নূর </item>
+        <item>আল হাদী </item>
+        <item>আল বাদীই </item>
+        <item> আল বাক্বী</item>
+        <item>আল ওয়ারিস </item>
+        <item>আর রাশীদ</item>
+        <item>আস সাবুর</item>
+    </string-array>
+    <string-array name="names_arabic_word">
+        <item>ٱلْرَّحْمَـانُ</item>
+        <item>ٱلْرَّحِيْمُ</item>
+        <item>ٱلْمَلِكُ</item>
+        <item>ٱلْقُدُّوسُ</item>
+        <item>ٱلْسَّلَامُ</item>
+        <item>ٱلْمُؤْمِنُ</item>
+        <item>ٱلْمُهَيْمِنُ</item>
+        <item>	ٱلْعَزِيزُ</item>
+        <item>	ٱلْجَبَّارُ</item>
+        <item>ٱلْمُتَكَبِّرُ</item>
+        <item>ٱلْخَالِقُ</item>
+        <item>ٱلْبَارِئُ</item>
+        <item>ٱلْمُصَوِّرُ</item>
+        <item>ٱلْغَفَّارُ</item>
+        <item>ٱلْقَهَّارُ</item>
+        <item>ٱلْوَهَّابُ</item>
+        <item>	ٱلْرَّزَّاقُ</item>
+        <item>	ٱلْفَتَّاحُ</item>
+        <item>ٱلْعَلِيمُ</item>
+        <item>ٱلْقَابِضُ</item>
+        <item>	ٱلْبَاسِطُ</item>
+        <item>ٱلْخَافِضُ</item>
+        <item>ٱلْرَّافِعُ</item>
+        <item>ٱلْمُعِزُّ</item>
+        <item>	ٱلْمُذِلُّ</item>
+        <item>ٱلْسَّمِيعُ</item>
+        <item>ٱلْبَصِيرُ</item>
+        <item>ٱلْحَكَمُ</item>
+        <item>ٱلْعَدْلُ</item>
+        <item>ٱلْلَّطِيفُ</item>
+        <item>	ٱلْخَبِيرُ</item>
+        <item>	ٱلْحَلِيمُ</item>
+        <item>ٱلْعَظِيمُ</item>
+        <item>ٱلْغَفُورُ</item>
+        <item>ٱلْشَّكُورُ</item>
+        <item>ٱلْعَلِيُّ</item>
+        <item>ٱلْكَبِيرُ</item>
+        <item>ٱلْحَفِيظُ</item>
+        <item>ٱلْمُقِيتُ</item>
+        <item>	ٱلْحَسِيبُ</item>
+        <item>ٱلْجَلِيلُ</item>
+        <item>ٱلْكَرِيمُ</item>
+        <item>ٱلْرَّقِيبُ</item>
+        <item>	ٱلْمُجِيبُ</item>
+        <item>ٱلْوَاسِعُ</item>
+        <item>ٱلْحَكِيمُ</item>
+        <item>ٱلْوَدُودُ</item>
+        <item>ٱلْمَجِيدُ</item>
+        <item>ٱلْبَاعِثُ</item>
+        <item>ٱلْشَّهِيدُ</item>
+        <item>ٱلْحَقُّ</item>
+        <item>ٱلْوَكِيلُ</item>
+        <item>ٱلْقَوِيُّ</item>
+        <item>ٱلْمَتِينُ</item>
+        <item>ٱلْوَلِيُّ</item>
+        <item>ٱلْحَمِيدُ</item>
+        <item>ٱلْمُحْصِيُ</item>
+        <item>ٱلْمُبْدِئُ</item>
+        <item>	ٱلْمُعِيدُ</item>
+        <item>ٱلْمُحْيِى</item>
+        <item>ٱلْمُمِيتُ</item>
+        <item>ٱلْحَىُّ</item>
+        <item>	ٱلْقَيُّومُ</item>
+        <item>ٱلْوَاجِدُ</item>
+        <item>ٱلْمَاجِدُ</item>
+        <item>ٱلْوَاحِدُ</item>
+        <item>ٱلْأَحَد</item>
+        <item>ٱلْصَّمَدُ</item>
+        <item>ٱلْقَادِرُ</item>
+        <item>ٱلْمُقْتَدِرُ</item>
+        <item>	ٱلْمُقَدِّمُ</item>
+        <item>ٱلْمُؤَخِّرُ</item>
+        <item>ٱلأَوَّلُ</item>
+        <item>ٱلْآخِرُ</item>
+        <item>ٱلْظَّاهِرُ</item>
+        <item>ٱلْبَاطِنُ</item>
+        <item>ٱلْوَالِي</item>
+        <item>ٱلْمُتَعَالِي</item>
+        <item>ٱلْبَرُّ</item>
+        <item>ٱلْتَّوَّابُ</item>
+        <item>ٱلْمُنْتَقِمُ</item>
+        <item>ٱلْعَفُوُّ</item>
+        <item>ٱلْرَّؤُفُ</item>
+        <item>مَالِكُ ٱلْمُلْكُ</item>
+        <item>ذُو ٱلْجَلَالِ وَٱلْإِكْرَامُ</item>
+        <item>ٱلْمُقْسِطُ</item>
+        <item>ٱلْجَامِعُ</item>
+        <item>ٱلْغَنيُّ</item>
+        <item>ٱلْمُغْنِيُّ</item>
+        <item>ٱلْمَانِعُ</item>
+        <item>ٱلْضَّارُ</item>
+        <item>	ٱلْنَّافِعُ</item>
+        <item>ٱلْنُّورُ</item>
+        <item>ٱلْهَادِي</item>
+        <item>ٱلْبَدِيعُ</item>
+        <item>ٱلْبَاقِي</item>
+        <item>ٱلْوَارِثُ</item>
+        <item>ٱلْرَّشِيدُ</item>
+        <item>ٱلْصَّبُورُ</item>
+    </string-array>
+
+    <string-array name="kalima_name">
+        <item>কালিমা তাইয়্যেবা</item>
+        <item>কালিমা শাহাদৎ</item>
+        <item>কালিমা তামজিদ</item>
+        <item>কালিমা তাওহিদ</item>
+        <item>কালিমায়ে রদ্দে কুফর</item>
+    </string-array>
+    <string name="kalimaNameOne"><u>কালিমা তাইয়্যেবা</u></string>
+    <string name="kalimaNameTwo"><u>কালিমা শাহাদৎ</u></string>
+    <string name="kalimaNameThree"><u>কালিমা তামজিদ</u></string>
+    <string name="kalimaNameFour"><u>কালিমা তাওহিদ</u></string>
+    <string name="kalimaNameFive"><u>কালিমায়ে রদ্দে কুফর</u></string>
+    <string-array name="kalima_arbi">
+        <item>لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُل اللّهِ</item>
+        <item>شْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَحْدَه لَا شَرِيْكَ لَه، وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهوَرَسُولُه</item>
+        <item>سُبْحَان لِلّه وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ، وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِلَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</item>
+        <item>لا الهَ اِلَّا اللّهُ وَحْدَهُ لا شَرِيْكَ لَهْ، لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْى وَ يُمِيْتُ وَ هُوَحَىُّ لَّا يَمُوْتُ اَبَدًا اَبَدًا ط ذُو الْجَلَالِ وَ الْاِكْرَامِ ط بِيَدِهِ الْخَيْرُ ط وَهُوَ عَلى كُلِّ شَئ ٍ قَدِيْرٌ ط</item>
+        <item>اللهم انی اعوذبک من ان یشرک بک شیئا واستغفرک ما اعلم به ومالا اعلم به تبت عنه وتبرأت من الکفر والشرک والمعاصی کلها واسلمت وامنت واقول ان لا اله الا الله محمد رسول الله صلی الله علیه وسلم.</item>
+    </string-array>
+    <string name="kalimaArbiOne">لآ اِلَهَ اِلّا اللّهُ مُحَمَّدٌ رَسُوُل اللّهِ</string>
+    <string name="kalimaArbiTwo">شْهَدُ انْ لّآ اِلهَ اِلَّا اللّهُ وَحْدَه لَا شَرِيْكَ لَه، وَ اَشْهَدُ اَنَّ مُحَمَّدً اعَبْدُهوَرَسُولُه</string>
+    <string name="kalimaArbiThree">سُبْحَان لِلّه وَ الْحَمْدُ لِلّهِ وَ لآ اِلهَ اِلّا اللّهُ، وَ اللّهُ اَكْبَرُ وَلا حَوْلَ وَلاَ قُوَّة ِلَّا بِاللّهِ الْعَلِىّ الْعَظِيْم</string>
+    <string name="kalimaArbiFour">لا الهَ اِلَّا اللّهُ وَحْدَهُ لا شَرِيْكَ لَهْ، لَهُ الْمُلْكُ وَ لَهُ الْحَمْدُ يُحْى وَ يُمِيْتُ وَ هُوَحَىُّ لَّا يَمُوْتُ اَبَدًا اَبَدًا ط ذُو الْجَلَالِ وَ الْاِكْرَامِ ط بِيَدِهِ الْخَيْرُ ط وَهُوَ عَلى كُلِّ شَئ ٍ قَدِيْرٌ ط</string>
+    <string name="kalimaArbiFive">اللهم انی اعوذبک من ان یشرک بک شیئا واستغفرک ما اعلم به ومالا اعلم به تبت عنه وتبرأت من الکفر والشرک والمعاصی کلها واسلمت وامنت واقول ان لا اله الا الله محمد رسول الله صلی الله علیه وسلم.</string>
+    <string-array name="kalima_spelling">
+        <item>লা-ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহ।</item>
+        <item>আশহাদু আল্লা ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা শারীকালাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু।</item>
+        <item>সুব্হানাল্লাহি ওয়াল হামদুলিল্লাহি ওয়া লা-ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আক্বার ওয়ালা হাওলা কুয়াতা ইল্লা বিল্লাহিল্ আলিইল্ আযীম্।</item>
+        <item>লা-ইলাহা ইল্লাল্লাহু ওয়াহ্ দাহু লা-সারিকা লা-হু লাহুল মুলকু ওয়া লাহুল হামদু ইউহা ই ওয়া উ মিতু বি ইয়া সি হিল খাইরু ওয়া-হু-ওয়া আ-লা কুল্লি শাইয়িন ক্বাদীর।</item>
+        <item> আল্লাহুম্মাহ ইন্নী আউযুবিকা মিন্ আন্ উশিকা বিকা শাইআওঁ ওয়া আনা আ’লামু বিহী, ওয়া আস্তাগ্ফিরুকা লিমা আ’লামু বিহী, ওয়ামা লা-আ’লামু বিহী, তুব্তু আন্হু ওয়া তাবাররা’তু মিনাল কুফরি ওয়াশ্ শিরকি ওয়াল মায়াছী কুল্লিহা, ওয়া আসলামতু ওয়া আমান্তু ওয়া আক্বুলু আল্লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহি।</item>
+    </string-array>
+    <string name="kalimaSpellOne"><u>উচ্চারণ :</u>\nলা-ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহ।</string>
+    <string name="kalimaSpellTwo"><u>উচ্চারণ :</u>\nআশহাদু আল্লা ইলাহা ইল্লাল্লাহু ওয়াহ্দাহু লা শারীকালাহু, ওয়া আশহাদু আন্না মুহাম্মাদান আবদুহু ওয়া রাসুলুহু।</string>
+    <string name="kalimaSpellThree"><u>উচ্চারণ :</u>\nসুব্হানাল্লাহি ওয়াল হামদুলিল্লাহি ওয়া লা-ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আক্বার ওয়ালা হাওলা কুয়াতা ইল্লা বিল্লাহিল্ আলিইল্ আযীম্।</string>
+    <string name="kalimaSpellFour"><u>উচ্চারণ :</u>\nলা-ইলাহা ইল্লাল্লাহু ওয়াহ্ দাহু লা-সারিকা লা-হু লাহুল মুলকু ওয়া লাহুল হামদু ইউহা ই ওয়া উ মিতু বি ইয়া সি হিল খাইরু ওয়া-হু-ওয়া আ-লা কুল্লি শাইয়িন ক্বাদীর।</string>
+    <string name="kalimaSpellFive"><u>উচ্চারণ :</u>\nআল্লাহুম্মাহ ইন্নী আউযুবিকা মিন্ আন্ উশিকা বিকা শাইআওঁ ওয়া আনা আ’লামু বিহী, ওয়া আস্তাগ্ফিরুকা লিমা আ’লামু বিহী, ওয়ামা লা-আ’লামু বিহী, তুব্তু আন্হু ওয়া তাবাররা’তু মিনাল কুফরি ওয়াশ্ শিরকি ওয়াল মায়াছী কুল্লিহা, ওয়া আসলামতু ওয়া আমান্তু ওয়া আক্বুলু আল্লা ইলাহা ইল্লাল্লাহু মুহাম্মাদুর রাসুলুল্লাহি।</string>
+    <string-array name="kalima_meaning">
+        <item>আল্লাহ এক আর কোনো মাবুদ নেই। হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত রাসুল।</item>
+        <item>আমি সাক্ষ্য প্রদান করছি যে, আল্লাহ্ ব্যতীত অন্য কোনো মাবুদ নেই। তিনি এক। তার কোনো অংশীদার নেই, এবং আমি আরও সাক্ষ্য প্রদান করছি যে, নিশ্চয়ই হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত বান্দা ও রাসুল।</item>
+        <item>মহিমা ও সকল প্রসংশা আল্লাহর জন্য, আল্লাহ ব্যতীত আর কোনো উপাস্য নেই। আল্লাহ মহান, সর্বশক্তিমান ও সর্বক্ষমতাবান। আল্লাহ ব্যতীত আর কেউ নয়। তিনিই মহান।</item>
+        <item>আল্লাহ এক আর কোনো মাবুদ নেই তিনি এক তার কোনো অংশীদার নেই। সমস্ত সৃষ্টি জগৎ এবং সকল প্রশংসা তাঁরই। তিনি জীবন হান করেন আবার তিনিই মৃত্যুর কারণ তার হাতেই সব ভালো কিছু এবং তিনিই সৃষ্টির সবকিছুর উপর ক্ষমতাবান।</item>
+        <item>হে আল্লাহ্! আমি তমার নিকট আকাক্সক্ষা করছি যে আমি যেন কাউকে তমার সাথে শরিক না করি। আমি আমার জ্ঞাত ও অজ্ঞাত পাপ হতে ক্ষমা প্রার্থনা করছি এবং তা হতে তোবা করছি। কুফরী, শিরক ও অন্যান্য সব পাপ হতে দূরে থাকছি। এবং স্বীকার করছি যে, ‘আল্লাহ এক আর কোনো মাবুদ নেই। হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত রাসুল।</item>
+    </string-array>
+    <string name="kalimaMeanOne"><u>অর্থ :</u>\nআল্লাহ এক আর কোনো মাবুদ নেই। হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত রাসুল।</string>
+    <string name="kalimaMeanTwo"><u>অর্থ :</u>\nআমি সাক্ষ্য প্রদান করছি যে, আল্লাহ্ ব্যতীত অন্য কোনো মাবুদ নেই। তিনি এক। তার কোনো অংশীদার নেই, এবং আমি আরও সাক্ষ্য প্রদান করছি যে, নিশ্চয়ই হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত বান্দা ও রাসুল।</string>
+    <string name="kalimaMeanThree"><u>অর্থ :</u>\nমহিমা ও সকল প্রসংশা আল্লাহর জন্য, আল্লাহ ব্যতীত আর কোনো উপাস্য নেই। আল্লাহ মহান, সর্বশক্তিমান ও সর্বক্ষমতাবান। আল্লাহ ব্যতীত আর কেউ নয়। তিনিই মহান।</string>
+    <string name="kalimaMeanFour"><u>অর্থ :</u>\nআল্লাহ এক আর কোনো মাবুদ নেই তিনি এক তার কোনো অংশীদার নেই। সমস্ত সৃষ্টি জগৎ এবং সকল প্রশংসা তাঁরই। তিনি জীবন হান করেন আবার তিনিই মৃত্যুর কারণ তার হাতেই সব ভালো কিছু এবং তিনিই সৃষ্টির সবকিছুর উপর ক্ষমতাবান।</string>
+    <string name="kalimaMeanFive"><u>অর্থ :</u>\nহে আল্লাহ্! আমি তমার নিকট আকাক্সক্ষা করছি যে আমি যেন কাউকে তমার সাথে শরিক না করি। আমি আমার জ্ঞাত ও অজ্ঞাত পাপ হতে ক্ষমা প্রার্থনা করছি এবং তা হতে তোবা করছি। কুফরী, শিরক ও অন্যান্য সব পাপ হতে দূরে থাকছি। এবং স্বীকার করছি যে, ‘আল্লাহ এক আর কোনো মাবুদ নেই। হজরত মুহাম্মদ সা. আল্লাহর প্রেরিত রাসুল।</string>
+
+    <string-array name="city_name">
+        <item>ঢাকা</item>
+        <item>চট্টগ্রাম</item>
+        <item>খুলনা</item>
+        <item>রাজশাহী</item>
+        <item>সিলেট</item>
+        <item>বরিশাল</item>
+        <item>ময়মনসিংহ</item>
+        <item>রংপুর</item>
+    </string-array>
+    <string-array name="date_bangla">
+        <item>১৪ এপ্রিল ২০২১</item>
+        <item>১৫এপ্রিল ২০২১</item>
+        <item>১৬এপ্রিল ২০২১</item>
+        <item>১৭ এপ্রিল ২০২১</item>
+        <item>১৮ এপ্রিল ২০২১</item>
+        <item>১৯ এপ্রিল ২০২১</item>
+        <item>২০ এপ্রিল ২০২১</item>
+        <item>২১ এপ্রিল ২০২১</item>
+        <item>২২ এপ্রিল ২০২১</item>
+        <item>২৩ এপ্রিল ২০২১</item>
+        <item>২৪ এপ্রিল ২০২১</item>
+        <item>২৫ এপ্রিল ২০২১</item>
+        <item>২৬ এপ্রিল ২০২১</item>
+        <item>২৭এপ্রিল ২০২১</item>
+        <item>২৮ এপ্রিল ২০২১</item>
+        <item>২৯ এপ্রিল ২০২১</item>
+        <item>৩০ এপ্রিল ২০২১</item>
+        <item>১ মে ২০২১</item>
+        <item>২ মে ২০২১</item>
+        <item>৩মে ২০২১</item>
+        <item>৪ মে ২০২১</item>
+        <item>৫ মে ২০২১</item>
+        <item>৬ মে ২০২১</item>
+        <item>৭ মে ২০২১</item>
+        <item>৮ মে ২০২১</item>
+        <item>৯ মে ২০২১</item>
+        <item>১০ মে ২০২১</item>
+        <item>১১ মে ২০২১</item>
+        <item>১২ মে ২০২১</item>
+        <item>১৩ মে ২০২১</item>
+    </string-array>
+    <string-array name="number">
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+        <item>৮</item>
+        <item>৯</item>
+        <item>১০</item>
+        <item>১১</item>
+        <item>১২</item>
+        <item>১৩</item>
+        <item>১৪</item>
+        <item>১৫</item>
+        <item>১৬</item>
+        <item>১৭</item>
+        <item>১৮</item>
+        <item>১৯</item>
+        <item>২০</item>
+        <item>২১</item>
+        <item>২২</item>
+        <item>২৩</item>
+        <item>২৪</item>
+        <item>২৫</item>
+        <item>২৬</item>
+        <item>২৭</item>
+        <item>২৮</item>
+        <item>২৯</item>
+        <item>৩০</item>
+    </string-array>
+
+    <string-array name="barishalIftar">
+        <item>6:19 PM</item>
+        <item>6:19 PM</item>
+        <item>6:20 PM</item>
+        <item>6:20 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+    </string-array>
+    <string-array name="barishalSahari">
+        <item>04:22 AM</item>
+        <item>04:21 AM</item>
+        <item>04:20 AM</item>
+        <item>04:19 AM</item>
+        <item>04:18 AM</item>
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:57 AM</item>
+    </string-array>
+    <string-array name="chittagongIftar">
+        <item>6:14 PM</item>
+        <item>6:14 PM</item>
+        <item>6:14 PM</item>
+        <item>6:15 PM</item>
+        <item>6:15 PM</item>
+        <item>6:15 PM</item>
+        <item>6:16 PM</item>
+        <item>6:16 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:18 PM</item>
+        <item>6:18 PM</item>
+        <item>6:19 PM</item>
+        <item>6:19 PM</item>
+        <item>6:19 PM</item>
+        <item>6:20 PM</item>
+        <item>6:20 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+    </string-array>
+    <string-array name="chittagongSahari">
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:57 AM</item>
+        <item>03:56 AM</item>
+        <item>03:55 AM</item>
+        <item>03:54 AM</item>
+        <item>03:54 AM</item>
+        <item>03:53 AM</item>
+        <item>03:52 AM</item>
+        <item>03:52 AM</item>
+    </string-array>
+    <string-array name="dhakaIftar">
+        <item>6:20 PM</item>
+        <item>6:20 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+        <item>6:32 PM</item>
+        <item>6:32 PM</item>
+        <item>6:33 PM</item>
+        <item>6:33 PM</item>
+    </string-array>
+    <string-array name="dhakaSahari">
+        <item>04:20 AM</item>
+        <item>04:19 AM</item>
+        <item>04:18 AM</item>
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:57 AM</item>
+        <item>03:56 AM</item>
+        <item>03:55 AM</item>
+        <item>03:54 AM</item>
+        <item>03:54 AM</item>
+    </string-array>
+    <string-array name="khulnaIftar">
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+        <item>6:32 PM</item>
+        <item>6:32 PM</item>
+        <item>6:33 PM</item>
+        <item>6:33 PM</item>
+        <item>6:33 PM</item>
+        <item>6:34 PM</item>
+        <item>6:34 PM</item>
+        <item>6:35 PM</item>
+    </string-array>
+    <string-array name="khulnaSahari">
+        <item>04:25 AM</item>
+        <item>04:24 AM</item>
+        <item>04:23 AM</item>
+        <item>04:22 AM</item>
+        <item>04:21 AM</item>
+        <item>04:20 AM</item>
+        <item>04:19 AM</item>
+        <item>04:18 AM</item>
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>04:00 AM</item>
+    </string-array>
+    <string-array name="sylhetIftar">
+        <item>6:15 PM</item>
+        <item>6:16 PM</item>
+        <item>6:16 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:18 PM</item>
+        <item>6:18 PM</item>
+        <item>6:19 PM</item>
+        <item>6:19 PM</item>
+        <item>6:20 PM</item>
+        <item>6:20 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+
+    </string-array>
+    <string-array name="sylhetSahari">
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:56 AM</item>
+        <item>03:55 AM</item>
+        <item>03:54 AM</item>
+        <item>03:53 AM</item>
+        <item>03:52 AM</item>
+        <item>03:51 AM</item>
+        <item>03:51 AM</item>
+        <item>03:50 AM</item>
+        <item>03:49 AM</item>
+        <item>03:48 AM</item>
+        <item>03:47 AM</item>
+        <item>03:46 AM</item>
+        <item>03:46 AM</item>
+        <item>03:45 AM</item>
+    </string-array>
+    <string-array name="mymensignIftar">
+        <item>6:15 PM</item>
+        <item>6:16 PM</item>
+        <item>6:16 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:17 PM</item>
+        <item>6:18 PM</item>
+        <item>6:18 PM</item>
+        <item>6:19 PM</item>
+        <item>6:19 PM</item>
+        <item>6:20 PM</item>
+        <item>6:20 PM</item>
+        <item>6:21 PM</item>
+        <item>6:21 PM</item>
+        <item>6:22 PM</item>
+        <item>6:22 PM</item>
+        <item>6:23 PM</item>
+        <item>6:23 PM</item>
+        <item>6:24 PM</item>
+        <item>6:24 PM</item>
+        <item>6:25 PM</item>
+        <item>6:25 PM</item>
+        <item>6:26 PM</item>
+        <item>6:26 PM</item>
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+    </string-array>
+    <string-array name="mymensinghSahari">
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:56 AM</item>
+        <item>03:55 AM</item>
+        <item>03:54 AM</item>
+        <item>03:53 AM</item>
+        <item>03:52 AM</item>
+        <item>03:51 AM</item>
+        <item>03:51 AM</item>
+        <item>03:50  AM</item>
+        <item>03:49 AM</item>
+        <item>03:48 AM</item>
+        <item>03:47 AM</item>
+        <item>03:46 AM</item>
+        <item>03:46 AM</item>
+        <item>03:45 AM</item>
+    </string-array>
+    <string-array name="rajshahiIftar">
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+        <item>6:32 PM</item>
+        <item>6:32 PM</item>
+        <item>6:33 PM</item>
+        <item>6:33 PM</item>
+        <item>6:34 PM</item>
+        <item>6:34 PM</item>
+        <item>6:35 PM</item>
+        <item>6:35 PM</item>
+        <item>6:36 PM</item>
+        <item>6:36 PM</item>
+        <item>6:37 PM</item>
+        <item>6:37 PM</item>
+        <item>6:38 PM</item>
+        <item>6:38 PM</item>
+        <item>6:39 PM</item>
+        <item>6:39 PM</item>
+        <item>6:40 PM</item>
+        <item>6:40 PM</item>
+        <item>6:41 PM</item>
+        <item>6:41 PM</item>
+
+    </string-array>
+    <string-array name="rajshahiSahari">
+
+        <item>04:26 AM</item>
+        <item>04:25 AM</item>
+        <item>04:24 AM</item>
+        <item>04:23 AM</item>
+        <item>04:22 AM</item>
+        <item>04:21 AM</item>
+        <item>04:20 AM</item>
+        <item>04:19 AM</item>
+        <item>04:18 AM</item>
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+        <item>04:08 AM</item>
+        <item>04:07 AM</item>
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+
+    </string-array>
+
+    <string-array name="rangpurIftar">
+        <item>6:27 PM</item>
+        <item>6:27 PM</item>
+        <item>6:28 PM</item>
+        <item>6:28 PM</item>
+        <item>6:29 PM</item>
+        <item>6:29 PM</item>
+        <item>6:30 PM</item>
+        <item>6:30 PM</item>
+        <item>6:31 PM</item>
+        <item>6:31 PM</item>
+        <item>6:32 PM</item>
+        <item>6:32 PM</item>
+        <item>6:33 PM</item>
+        <item>6:33 PM</item>
+        <item>6:34 PM</item>
+        <item>6:34 PM</item>
+        <item>6:35 PM</item>
+        <item>6:35 PM</item>
+        <item>6:36 PM</item>
+        <item>6:36 PM</item>
+        <item>6:37 PM</item>
+        <item>6:37 PM</item>
+        <item>6:38 PM</item>
+        <item>6:38 PM</item>
+        <item>6:39 PM</item>
+        <item>6:39 PM</item>
+        <item>6:40 PM</item>
+        <item>6:40 PM</item>
+        <item>6:41 PM</item>
+
+
+    </string-array>
+    <string-array name="rangpurSahari">
+
+        <item>04:22 AM</item>
+
+        <item>04:20 AM</item>
+        <item>04:19 AM</item>
+        <item>04:18 AM</item>
+        <item>04:17 AM</item>
+        <item>04:16 AM</item>
+        <item>04:15 AM</item>
+        <item>04:14 AM</item>
+        <item>04:13 AM</item>
+        <item>04:12 AM</item>
+        <item>04:11 AM</item>
+        <item>04:10 AM</item>
+        <item>04:09 AM</item>
+
+        <item>04:07 AM</item>
+        <item>04:06 AM</item>
+        <item>04:05 AM</item>
+        <item>04:05 AM</item>
+        <item>04:04 AM</item>
+        <item>04:03 AM</item>
+        <item>04:02 AM</item>
+        <item>04:01 AM</item>
+        <item>04:00 AM</item>
+        <item>03:59 AM</item>
+        <item>03:58 AM</item>
+        <item>03:57 AM</item>
+        <item>03:56 AM</item>
+        <item>03:56 AM</item>
+        <item>03:55 AM</item>
+        <item>03:54 AM</item>
+        <item>03:53 AM</item>
+
+
+    </string-array>
+
+
+    <string-array name="bar">
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনিবার</item>
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+    </string-array>
+</resources>
